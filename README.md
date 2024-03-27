@@ -1,5 +1,3 @@
-# Pricing_Analytics
-
 # End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
 
 
@@ -14,6 +12,8 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+
 
 
 
@@ -38,13 +38,13 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/ankan89/Pricing_Analytics.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/ankan89/Pricing_Analytics.mlflow 
 
 export MLFLOW_TRACKING_USERNAME=ankan89
 
 export MLFLOW_TRACKING_PASSWORD=89527c7dee881bd8c8a02e7d2bfc01727ae566a8
-
 ```
+
 
 
 ### DVC cmd
